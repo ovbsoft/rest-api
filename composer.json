@@ -1,0 +1,7 @@
+{
+    "name": "ovbsoft/rest-api",
+    "description": "rest api",
+    "require": {
+        "php": ">=7.4.5"
+    }
+}
